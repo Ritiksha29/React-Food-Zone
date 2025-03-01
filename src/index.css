@@ -1,0 +1,8 @@
+body {
+  background: radial-gradient(circle, rgba(209,245,252,1) 0%, rgba(201,196,246,1) 100%);
+  color: rgb(40, 33, 78);
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+
